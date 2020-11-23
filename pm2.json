@@ -1,0 +1,9 @@
+{
+    "apps": [{
+        "exec_mode": "cluster",
+		"instances" : "max",
+        "script": "./index.js",
+        "name": "Challenge 5_1",
+        "interpreter": "node"
+    }]
+}
